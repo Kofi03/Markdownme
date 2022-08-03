@@ -13,7 +13,7 @@ You will find attcahed my **LinkedIn** profile below to find out more about me a
 ###                             Helen Keller
 
 
-I love food
+**I love food but food also loves me**
 
 ## Favourite Food
 ![jollof](./jollof.jpeg)
